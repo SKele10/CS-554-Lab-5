@@ -104,3 +104,9 @@ Before starting, ensure you have the following installed:
    - [Vercel](https://vercel.com/)
    - [AWS S3](https://aws.amazon.com/s3/)
 
+---
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
+
