@@ -53,7 +53,7 @@ Before starting, ensure you have the following installed:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-repo/cs-554-lab-5.git
+   git clone https://github.com/SKele10/SpaceXplorer.git
    cd cs-554-lab-5
    ```
 
